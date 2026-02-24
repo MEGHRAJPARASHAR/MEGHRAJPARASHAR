@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Meghraj-parshar<br>👀 I’m interested in WebDevelopment,MobileDevelopment, Linux.<br>🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, JS and Python.<br>💞️ I’m looking to collaborate on anything! Just send me a message!<br>📫 How to reach me:<a href="https://meghraj-parashar.github.io/portfolio/"> Portfolio</a><br>
+<p align="left">👋 Hi, I’m Meghraj-parshar<br>👀 I’m interested in WebDevelopment,MobileDevelopment, Linux.<br>🌱 I’m currently learning lots of new frameworks, know HTML CSS PHP, JS and Python.<br>💞️ I’m looking to collaborate on anything! Just send me a message!<br>📫 How to reach me:<a href="https://meghrajparashar.me/portfolio/"> Portfolio</a><br>
 📫 Email: <a href="mailto:meghrajparashar@gmail.com">meghrajparashar@gmail.com</a>
 </p>
 <br>
