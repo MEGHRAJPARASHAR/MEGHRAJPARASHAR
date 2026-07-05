@@ -7,7 +7,7 @@
   👀 I’m interested in Web Development, Software Development, and Linux.<br>
   🌱 I’m highly skilled in <strong>React.js, Node.js, Express.js, and MongoDB</strong>, and I also work with HTML, CSS, PHP, JS, Python, C, and C++.<br>
   💞️ I’m looking to collaborate on exciting full-stack projects! Just send me a message!<br>
-  📫 How to reach me: <a href="https://meghraj-parashar.github.io/portfolio">Portfolio Website</a><br>
+  📫 How to reach me: <a href="https://meghrajparashar.github.io/portfolio">Portfolio Website</a><br>
   📫 Email: <a href="mailto:meghrajparashar@gmail.com">meghrajparashar@gmail.com</a>
 </p>
 <br>
